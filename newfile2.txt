@@ -1,0 +1,1 @@
+cars:,2,rides:,3,bonus:,2,steps:,10
